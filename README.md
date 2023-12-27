@@ -50,18 +50,38 @@ Explore solutions involving array manipulation techniques.
 - Square Root Using Binary Search 🔄
 - Sum of All the Unique Element 🔄
 
-### Miscellaneous 🎭
+### Recursion 🔄
 
-Explore miscellaneous array challenges.
+Explore solutions using recursion.
 
-- Char Arrays, Strings 🧵
-- Find Unique Element 🔄
-- First and Last Position of Sorted Array 🔍
-- Intersection of Two Arrays ⚙️
-- Painters Partition Problem 🎨
-- Pair Sum Equal to Given Number ✨
-- Predefined Sort Function 🔄
-- Triplet Sum Equal to Given Number ✨
+- Find Pivot in Array Using Binary Search 🔄
+- First and Last Position of Element in Sorted Array 🔄
+- Insertion Sort 🔄
+- Linear Search 🔄
+- Merge Sort 🔄
+- N Power of N Number 🔄
+- Peak Element in Array 🔄
+- Power Using Recursion 🔄
+- Quick Sort 🔄
+- Reach Home 🔄
+- Recursion Lecture 1 🔄
+- Reverse String 🔄
+- Say Digit 🔄
+- Selection Sort 🔄
+- Square Root Using Binary Search 🔄
+- Stairs 🔄
+- Sum of Array Elements 🔄
+- Take and Print Array Elements 🔄
+- Total Occurrence of Elements Using Binary Search 🔄
+- Array Sorted 🔄
+- Binary Search 🔄
+- Bubble Sort 🔄
+- Check Palindrome 🔄
+- Check Palindrome Way 1 🔄
+- Check Palindrome Way 2 🔄
+- Counting 🔄
+- Fibonacci Series 🔄
+- Factorial 🔄
 
 ## Contributions and Stars ⭐
 
